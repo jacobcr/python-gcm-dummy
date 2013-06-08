@@ -1,6 +1,6 @@
 python-gcm-dummy
 ======================
-Dummy server that simulates google GCM responses, it is designed to easy make an integration test in order to verify if tokens are properly
+Dummy server that simulates google GCM responses, it is designed to make easier integration tests in order to verify if tokens are properly
 managed
 
 Only json format is supported and there is no ssl support
